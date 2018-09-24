@@ -5,10 +5,10 @@ Also, how to architect test code, well it's obvious since it'll be mostly the sa
 From now, I'll be writing tests in a smart manner and keep on dedicating all my time on making my software testable, safe, and descriptive. 
 
 ## Progress
-1. [ ] Getting Django Set Up Using a Functional Test
-2. [ ] Extending Our Functional Test Using the unittest Module
-3. [ ] Testing a Simple Home Page with Unit Tests
-4. [ ] What Are We Doing with All These Tests? (And, Refactoring)
+1. [x] Getting Django Set Up Using a Functional Test
+2. [x] Extending Our Functional Test Using the unittest Module
+3. [x] Testing a Simple Home Page with Unit Tests
+4. [x] What Are We Doing with All These Tests? (And, Refactoring)
 5. [ ] Saving User Input: Testing the Database
 6. [ ] Improving Functional Tests: Ensuring Isolation and Removing Voodoo Sleeps
 7. [ ] Working Incrementally / Web Development Sine Qua Nons
