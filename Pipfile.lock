@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "44767b30ed497af613de11bb13bc4915e28d31492c0a68bc33239be776c08ea5"
+            "sha256": "32a8aef56168e2c29e77cc7e62e1c2838b9d039cf10b59f4352e5f310621e31b"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -18,11 +18,18 @@
     "default": {
         "django": {
             "hashes": [
-                "sha256:8176ac7985fe6737ce3d6b2531b4a2453cb7c3377c9db00bacb2b3320f4a1311",
-                "sha256:b18235d82426f09733d2de9910cee975cf52ff05e5f836681eb957d105a05a40"
+                "sha256:29268cc47816a44f27308e60f71da635f549c47d8a1d003b28de55141df75791",
+                "sha256:37f5876c1fbfd66085001f4c06fa0bf96ef05442c53daf8d4294b6f29e7fa6b8"
             ],
             "index": "pypi",
-            "version": "==1.11.15"
+            "version": "==1.11.16"
+        },
+        "pygments": {
+            "hashes": [
+                "sha256:78f3f434bcc5d6ee09020f92ba487f95ba50f1e3ef83ae96b9d5ffa1bab25c5d",
+                "sha256:dbae1046def0efb574852fab9e90209b23f556367b5a320c0bcb871c77c3e8cc"
+            ],
+            "version": "==2.2.0"
         },
         "pytz": {
             "hashes": [
@@ -31,13 +38,20 @@
             ],
             "version": "==2018.5"
         },
-        "selenium": {
+        "redgreenunittest": {
             "hashes": [
-                "sha256:c53d13a2627d835fee3d1d6291214c62196dfeb6f5f35572bacf31ac60c030c0",
-                "sha256:f9ca21919b564a0a86012cd2177923e3a7f37c4a574207086e710192452a7c40"
+                "sha256:94f98a8928f80f4bf216e316062cd7d7af134d922287e73f59cab0f3262d87b4"
             ],
             "index": "pypi",
-            "version": "==3.14.0"
+            "version": "==0.1.1"
+        },
+        "selenium": {
+            "hashes": [
+                "sha256:ab192cd046164c40fabcf44b47c66c8b12495142f4a69dcc55ea6eeef096e614",
+                "sha256:fdb6b1143d8899e8a32e358ad05bf5d89a480dbac359dbbd341592aa8696dcd1"
+            ],
+            "index": "pypi",
+            "version": "==3.14.1"
         },
         "urllib3": {
             "hashes": [
