@@ -11,7 +11,7 @@ From now, I'll be writing tests in a smart manner and keep on dedicating all my 
 4. [x] What Are We Doing with All These Tests? (And, Refactoring)
 5. [x] Saving User Input: Testing the Database
 6. [x] Improving Functional Tests: Ensuring Isolation and Removing Voodoo Sleeps
-7. [ ] Working Incrementally / Web Development Sine Qua Nons
+7. [x] Working Incrementally / Web Development Sine Qua Nons
 8. [ ] Prettification: Layout and Styling, and What to Test About It
 9. [ ] Testing Deployment Using a Staging Site
 10. [ ] Getting to a Production-Ready Deployment
