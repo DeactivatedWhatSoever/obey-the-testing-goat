@@ -14,7 +14,7 @@ From now, I'll be writing tests in a smart manner and keep on dedicating all my 
 7. [x] Working Incrementally / Web Development Sine Qua Nons
 8. [x] Prettification: Layout and Styling, and What to Test About It
 9. [x] Testing Deployment Using a Staging Site
-10. [ ] Getting to a Production-Ready Deployment
+10. [x] Getting to a Production-Ready Deployment
 11. [ ] Automating Deployment with Fabric
 12. [ ] Splitting Our Tests into Multiple Files, and a Generic Wait Helper
 13. [ ] Validation at the Database Layer
