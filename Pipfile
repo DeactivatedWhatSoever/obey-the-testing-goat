@@ -7,6 +7,7 @@ name = "pypi"
 django = "<1.12"
 selenium = "<4"
 redgreenunittest = "*"
+gunicorn = "*"
 
 [dev-packages]
 
