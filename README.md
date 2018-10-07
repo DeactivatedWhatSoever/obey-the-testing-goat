@@ -15,7 +15,7 @@ From now, I'll be writing tests in a smart manner and keep on dedicating all my 
 8. [x] Prettification: Layout and Styling, and What to Test About It
 9. [x] Testing Deployment Using a Staging Site
 10. [x] Getting to a Production-Ready Deployment
-11. [ ] Automating Deployment with Fabric
+11. [x] Automating Deployment with Fabric
 12. [ ] Splitting Our Tests into Multiple Files, and a Generic Wait Helper
 13. [ ] Validation at the Database Layer
 14. [ ] A Simple Form
