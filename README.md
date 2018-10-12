@@ -18,7 +18,7 @@ From now, I'll be writing tests in a smart manner and keep on dedicating all my 
 11. [x] Automating Deployment with Fabric
 12. [x] Splitting Our Tests into Multiple Files, and a Generic Wait Helper
 13. [x] Validation at the Database Layer
-14. [ ] A Simple Form
+14. [x] A Simple Form
 15. [ ] More Advanced Forms
 16. [ ] Dipping Our Toes, Very Tentatively, into JavaScript
 17. [ ] Deploying Our New Code / More Advanced Topics in Testing
