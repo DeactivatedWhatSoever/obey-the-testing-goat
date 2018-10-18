@@ -20,7 +20,7 @@ From now, I'll be writing tests in a smart manner and keep on dedicating all my 
 13. [x] Validation at the Database Layer
 14. [x] A Simple Form
 15. [x] More Advanced Forms
-16. [ ] Dipping Our Toes, Very Tentatively, into JavaScript
+16. [x] Dipping Our Toes, Very Tentatively, into JavaScript
 17. [ ] Deploying Our New Code / More Advanced Topics in Testing
 18. [ ] User Authentication, Spiking, and De-Spiking
 19. [ ] Using Mocks to Test External Dependencies or Reduce Duplication
